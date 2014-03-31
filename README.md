@@ -44,9 +44,9 @@ A Raspberry Pi is so small that it can easily be hidden; that makes it the perfe
 
 ##Introduction: what is a PIR module?
 
-PIR stands for Passive Infra Red. You might have seen these before as they are very common these days. You would most often find them in the corners of rooms for burglar alarm systems. All objects whose temperatures are above absolute zero emit infra red radiation. Infra red wavelengths are not visible to the human eye, but they can be detected by the electronics inside one of these modules.
+PIR stands for Passive Infra Red. You might have seen these before as they are very common these days. You would most often find them in the corners of rooms for burglar alarm systems. All objects whose temperatures are above absolute zero emit infrared radiation. Infrared wavelengths are not visible to the human eye, but they can be detected by the electronics inside one of these modules.
 
-The sensor is regarded as passive because it doesn’t send out any signal in order to detect movement. It adjusts itself to the infra red signature of the room it’s in and then watches for any changes. Any object moving through the room will disturb the infra red signature, and will cause a change to be noticed by the PIR module.
+The sensor is regarded as passive because it doesn’t send out any signal in order to detect movement. It adjusts itself to the infrared signature of the room it’s in and then watches for any changes. Any object moving through the room will disturb the infrared signature, and will cause a change to be noticed by the PIR module.
 
 ![](./images/pir_module.png "PIR Motion Sensor Module")
 
